@@ -1,0 +1,4 @@
+class X {
+  @example
+  method() {}
+}
